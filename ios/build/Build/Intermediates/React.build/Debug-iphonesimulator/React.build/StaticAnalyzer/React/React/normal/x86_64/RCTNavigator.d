@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTNavigator.m \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTNavigator.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTFrameUpdate.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTAssert.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTDefines.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTBridge.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTBridgeModule.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTInvalidating.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTConvert.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/CSSLayout/CSSLayout.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/CSSLayout/CSSMacros.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTAnimationType.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTBorderStyle.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTLog.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTPointerEvents.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTEventDispatcher.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTNavItem.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTComponent.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTScrollView.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTView.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Base/RCTUtils.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTWrapperViewController.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/liqiankun/HBuilderProjects/ReactNativeApp/node_modules/_react-native@0.35.0@react-native/React/Views/UIView+React.h
